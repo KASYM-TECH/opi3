@@ -19,8 +19,4 @@ public class I implements C {
     public int ae() {
         return java.lang.Math.abs(-7);
     }
-
-    public int af() {
-        return -1;
-    }
 }
