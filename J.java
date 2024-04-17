@@ -15,4 +15,8 @@ public class J {
     public double ee() {
         return java.lang.Math.PI;
     }
+
+    public long ac() {
+        return 333;
+    }
 }
