@@ -35,4 +35,8 @@ public class J {
     public double ad() {
         return 11.09;
     }
+
+    public java.util.List<String> jj() {
+        return new java.util.ArrayList<String>();
+    }
 }
