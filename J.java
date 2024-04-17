@@ -27,4 +27,8 @@ public class J {
     public long dd() {
         return 33;
     }
+
+    public float ff() {
+        return 3.14;
+    }
 }
