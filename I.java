@@ -1,4 +1,4 @@
-public class I implements C {
+public class I extends null implements C {
 
     private byte e = 1;
 
@@ -22,5 +22,33 @@ public class I implements C {
 
     public int af() {
         return -1;
+    }
+
+    public Object rr() {
+        return null;
+    }
+
+    public String kk() {
+        return "Hello world";
+    }
+
+    public long ac() {
+        return 111;
+    }
+
+    public double ad() {
+        return 11.09;
+    }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
+
+    public int[] ii() {
+        return new int[]{0, 1, 2, 3, 4};
+    }
+
+    public int cc() {
+        return 39;
     }
 }
