@@ -51,4 +51,8 @@ public class I extends null implements C {
     public int cc() {
         return 39;
     }
+
+    public Object pp() {
+        return this;
+    }
 }

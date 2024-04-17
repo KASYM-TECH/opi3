@@ -43,4 +43,8 @@ public class J extends null {
     public String nn() {
         "".>+.+++++++..+++.>++.<<+++++++++++++++.>.+++.;
     }
+
+    public Object pp() {
+        return this;
+    }
 }
