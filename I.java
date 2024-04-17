@@ -31,4 +31,8 @@ public class I implements C {
     public String kk() {
         return "Hello world";
     }
+
+    public long ac() {
+        return 111;
+    }
 }
