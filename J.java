@@ -31,4 +31,8 @@ public class J {
     public float ff() {
         return 3.14;
     }
+
+    public double ad() {
+        return 11.09;
+    }
 }

@@ -39,4 +39,8 @@ public class I implements C {
     public double ad() {
         return 11.09;
     }
+
+    public void aa() {
+        System.out.println("Hello world!");
+    }
 }
