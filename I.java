@@ -27,6 +27,7 @@ public class I extends null implements C {
     public Object rr() {
         return null;
     }
+<<<<<<< HEAD
 
     public String kk() {
         return "Hello world";
@@ -55,4 +56,5 @@ public class I extends null implements C {
     public Object pp() {
         return this;
     }
+>>>>>>> blue2
 }

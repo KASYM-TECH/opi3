@@ -19,6 +19,7 @@ public class J extends null {
     public long ac() {
         return 333;
     }
+<<<<<<< HEAD
 
     public int af() {
         return -1;
@@ -47,4 +48,5 @@ public class J extends null {
     public Object pp() {
         return this;
     }
+>>>>>>> blue2
 }
