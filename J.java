@@ -19,4 +19,8 @@ public class J {
     public long ac() {
         return 333;
     }
+
+    public int af() {
+        return -1;
+    }
 }

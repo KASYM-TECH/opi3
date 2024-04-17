@@ -27,4 +27,8 @@ public class I implements C {
     public Object rr() {
         return null;
     }
+
+    public String kk() {
+        return "Hello world";
+    }
 }
